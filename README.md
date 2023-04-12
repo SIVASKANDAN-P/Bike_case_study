@@ -24,11 +24,10 @@
 
 
 ## Technologies Used
-- Python
+- Python 3.9
+- scikit-learn 1.0.2
+- stats model 0.13.2
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-- This project is done as a part of EPGP AI ML COURSE
 
 ## Contact
 Created by SIVASKANDAN-P - feel free to contact me!
